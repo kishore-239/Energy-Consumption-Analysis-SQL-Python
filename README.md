@@ -2,17 +2,12 @@
 
 # 🌍 Energy Consumption Analysis using MySQL & Python
 
-### 👥 Team Members  
-- **Kumkapalla Chidvilas**  
-- **Kudithi Krishna Kishore**  
-- **Bandaru Deva Vara Prasad**
-
 ---
 
 ## 💡 Introduction
 This project focuses on analyzing **global energy consumption, production, and emissions** using **real-world datasets** from the EIA (Energy Information Administration).  
 It explores how **economic growth**, **population**, and **energy use** are interlinked across different countries.  
-Using **MySQL** for data analysis and **Python** for visualization, we uncovered meaningful insights into energy efficiency, emission trends, and sustainability.
+Using **MySQL** for data analysis and **Python** for visualization, meaningful insights into energy efficiency, emission trends, and sustainability were uncovered.
 
 ---
 
@@ -116,15 +111,11 @@ Some of the key visualizations created using Python:
 ---
 
 ## 💬 Conclusion
-> We discovered that **energy, economy, and environment are deeply connected**, influencing one another in every watt consumed and every emission released.  
+> **Energy, economy, and environment are deeply connected**, influencing one another in every watt consumed and every emission released.  
 >  
-> By harnessing **MySQL** and **Python**, we transformed raw energy data into powerful insights — identifying global patterns in production, consumption, and sustainability.  
+> By harnessing **MySQL** and **Python**, raw energy data was transformed into powerful insights — identifying global patterns in production, consumption, and sustainability.  
 >  
-> This project highlights that **sustainable growth is not just a choice — it’s a necessity**. The future belongs to those who can transform **data into action** and **energy into opportunity** for a cleaner planet. 🌱
-
----
-
-
+> This project highlights that **sustainable growth is not just a choice — it's a necessity**. The future belongs to those who can transform **data into action** and **energy into opportunity** for a cleaner planet. 🌱
 
 ---
 
@@ -133,7 +124,7 @@ Some of the key visualizations created using Python:
 
 ---
 
-## 📫 Connect with Us
-**Team: Kumkapalla Chidvilas, Kudithi Krishna Kishore, Bandaru Deva Vara Prasad**  
-📧 Email: kishorekrishna623@gmail.com  
-🔗 [LinkedIn - krishna kishore kudithi](https://www.linkedin.com/in/krishnakishorekudithi/recent-activity/all/)  
+## 📫 Connect
+📧 Email: [kishorekrishna623@gmail.com](mailto:kishorekrishna623@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/krishnakishorekudithi/)  
+🐙 [GitHub](https://github.com/kishore-239)
